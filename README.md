@@ -1,4 +1,4 @@
-# {{product_name}}
+# Species distribution model of invasive macroalgae
 
 ## Introduction
 
