@@ -88,6 +88,13 @@ var_hist <- load_layers(layercodes = c("BO_salinity","BO_sstmax","BO_sstmin","BO
                         datadir = "./Datos/entrada/ambientales/Historicos",
                         rasterstack=FALSE)
 
+# Delete variables with correlation > 0.9
+var2 <- brick(stack(var_hist))
+correl.groups <- layerStats(var2, 'pearson', na.rm=T) # matrix
+matrix_correlation <- as.data.frame(correl.groups)
+select <- filter(matrix_correlation,col2>0.9)
+
+
 # To save as ascii
 nombres<-names(var_hist)
 i=1
