@@ -55,4 +55,4 @@ Available to download in:
 
 ### Authors
 
-{{product_authors}}
+Samuel Sainz, Elvira Ramos
