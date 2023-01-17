@@ -49,7 +49,7 @@ Sainz-Villegas, S., de la Hoz, C.F., Juanes, J.A., Puente, A. 2022. Predicting n
 
 This product should be cited as:
 
-Sainz-Villegas, S., Ramos, E., de la Hoz, C.F., Puente, A., Juanes, J.A. (2023) Species Distribution Models for invasive macroalgae. Data product created under the European Marine Observation Data Network (EMODnet) Biology Phase IV.
+Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2023) Species Distribution Models for invasive macroalgae. Data product created under the European Marine Observation Data Network (EMODnet) Biology Phase IV.
 
 Available to download in:
 
@@ -57,4 +57,4 @@ Available to download in:
 
 ### Authors
 
-Sainz-Villegas, S., Ramos, E., de la Hoz, C.F., Puente, A., Juanes, J.A.. 
+Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. 
