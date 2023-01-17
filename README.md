@@ -2,7 +2,7 @@
 
 ## Introduction
 
-{{product_introduction}}
+The number of marine seaweeds outside their natural boundaries has increased in the last decades generating impacts on biodiversity and economy. This makes the development of management tools necessary, where species distribution models (SDMs) play a crucial role. SDMs can help in the early detection of invasions and predict the extent of the potential spread. However, modelling non-native marine species distributions is still challenging in terms of model building, evaluation and selection. This product aims to predict the European distribution of five widespread introduced seaweed species selecting the best model building process.
 
 ## Directory structure
 
