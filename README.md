@@ -25,11 +25,7 @@ The number of marine seaweeds outside their natural boundaries has increased in 
 
 ## Data series
 
-{{data_series}}
-
-```
-{{data_wfs_request}}
-```
+The data series used in this product have been downoladed from EMODnet Biology, EMODnet Bathymetry, OBIS, GBIF and Bio-Oracle. The scripts used to obtain this data are included here (01_get_models_data.R).
 
 ## Data product
 
