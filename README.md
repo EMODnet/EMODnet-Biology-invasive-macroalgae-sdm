@@ -41,9 +41,15 @@ de la Hoz, C.F., Ramos, E., Puente, A., Juanes, J.A. 2019. Climate change induce
 
 Sainz-Villegas, S., de la Hoz, C.F., Juanes, J.A., Puente, A. 2022. Predicting non-native seaweeds global distributions: The importance of tuning individual algorithms in ensembles to obtain biologically meaningful results. Frontiers in Marine Science, 9, 1009808.
 
+Cobos, ME., Peterson AT., Barve, N., Osorio-Olvera, L. 2019. Kuenm: an R package for detailed development of ecological niche models using Maxent. PeerJ, 7:e6281.
+
 ### Code and methodology
 
-{{link_code}}
+Maximum entropy models (MAXENT) were built to analyze the distribution of five invasive seaweeds in Europe: Asparagopsis armata, Caulerpa taxifolia, Sargassum muticum and Undaria pinnatifida. Previous research on invasive and non-invasive species models highlighted the relevance of tuning model configuration settings to achieve better results (e.g. de la Hoz et al., 2019; Sainz-Villegas et al., 2022).  From those settings, the regularization multiplier or the number and type of features are the most relevant in MAXENT models. Here, we optimized a MAXENT configuration by exploring a wide range of regularization multiplier values (from 0.1 to 1 at 0.1 inervals) and all possible combinations of features with the kuenm (Cobos et al., 2019) package for the R software. Environmental variables are also another important issue when modelling invasive species. Additionally, the effects of environmental variables on model predictions was analyzed. From a predefined pool of environmental variables, selected according to ecological criteria, those variables optimizing the predictions were retained.  Final models were built using the optimized configuration of environmental variables and settings and the results are included as data products. The workflow for each species is provided in the following scripts:
+-	Asparagopsis armata: 02_Asparagopsis_model.R
+-	Caulerpa taxifolia: 03_Caulerpa_model.R
+-	Sargassum muticum: 04_Smuticum_model.R
+-	Undaria pinnatifida: 05_Undaria_model.R
 
 ### Citation and download link
 
