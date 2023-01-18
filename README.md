@@ -8,18 +8,11 @@ The number of marine seaweeds outside their natural boundaries has increased in 
 
 ```
 {{directory_name}}/
-├── analysis
-├── data/
-│   ├── derived_data/
-│   └── raw_data/
-├── docs/
+
 ├── product/
 └── scripts/
 ```
 
-* **analysis** - Markdown or Jupyter notebooks
-* **data** - Raw and derived data
-* **docs** - Rendered reports
 * **product** - Output product files
 * **scripts** - Reusable code
 
