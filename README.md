@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The number of marine seaweeds outside their natural boundaries has increased in the last decades generating impacts on biodiversity and economy. This makes the development of management tools necessary, where species distribution models (SDMs) play a crucial role. SDMs can help in the early detection of invasions and predict the extent of the potential spread. However, modelling non-native marine species distributions is still challenging in terms of model building, evaluation and selection. This product aims to predict the European distribution of five widespread introduced seaweed species selecting the best model building process.
+The number of marine seaweeds outside their natural boundaries has increased in the last decades generating impacts on biodiversity and economy. This makes the development of management tools necessary, where species distribution models (SDMs) play a crucial role. SDMs can help in the early detection of invasions and predict the extent of the potential spread. However, modelling non-native marine species distributions is still challenging in terms of model building, evaluation and selection. This product aims to predict the European distribution of four widespread introduced seaweed species selecting the best model building process.
 
 ## Directory structure
 
@@ -29,7 +29,7 @@ The data series used in this product have been downoladed from EMODnet Biology, 
 
 ## Data product
 
-{{data_product_description}}
+This product provides the historical and projected distribution of four invasive macroalgae (Asparagopsis armata, Caulerpa taxifolia, Sargassum muticum and Undaria pinnatifida) along the European coasts. The projection is made for the RCP8.5 and long-term (2100). In the graphs generated it can be observed the estimated change in the potential distribution of these species.
 
 ## More information:
 
@@ -41,7 +41,7 @@ de la Hoz, C.F., Ramos, E., Puente, A., Juanes, J.A. 2019. Climate change induce
 
 Sainz-Villegas, S., de la Hoz, C.F., Juanes, J.A., Puente, A. 2022. Predicting non-native seaweeds global distributions: The importance of tuning individual algorithms in ensembles to obtain biologically meaningful results. Frontiers in Marine Science, 9, 1009808.
 
-Cobos, ME., Peterson AT., Barve, N., Osorio-Olvera, L. 2019. Kuenm: an R package for detailed development of ecological niche models using Maxent. PeerJ, 7:e6281.
+Cobos, M.E., Peterson A.T., Barve, N., Osorio-Olvera, L. 2019. Kuenm: an R package for detailed development of ecological niche models using Maxent. PeerJ, 7:e6281.
 
 ### Code and methodology
 
