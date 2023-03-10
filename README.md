@@ -7,7 +7,7 @@ The number of marine seaweeds outside their natural boundaries has increased in 
 ## Directory structure
 
 ```
-{{directory_name}}/
+/
 
 ├── product/
 └── scripts/
@@ -52,7 +52,7 @@ Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2023) 
 
 Available to download in:
 
-{{link_download}}
+https://www.vliz.be/en/imis?dasid=8209
 
 ### Authors
 
