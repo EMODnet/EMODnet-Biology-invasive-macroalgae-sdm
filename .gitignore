@@ -18,6 +18,7 @@ docs/*.pdf
 
 # output files
 output/
+*.nc
 
 # knitr and R markdown default cache directories
 /analysis/cache/
