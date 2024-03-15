@@ -52,7 +52,11 @@ Ramos, E., Sainz-Villegas, S., de la Hoz, C.F., Puente, A., Juanes, J.A. (2023) 
 
 Available to download in:
 
-https://www.vliz.be/en/imis?dasid=8209
+EMODnet catalogue=> https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/56bed79d40b473f8c8785f2595cadef32340e479
+VLIZ catalogue=> https://www.vliz.be/en/imis?dasid=8209
+EMODnet ERDDAP file=> https://erddap.emodnet.eu/erddap/files/biology_invasive_macroalgae_b262_6965_fbc0/kuenm_models_review.nc
+EMODnet viewer=> https://emodnet.ec.europa.eu/geoviewer/?layers=12962:1:1&basemap=ebwbl&active=12962&bounds=-8108447.236064361,3082466.8149999995,11062488.39206436,11459766.29&filters=&projection=EPSG:3857
+
 
 ### Authors
 
